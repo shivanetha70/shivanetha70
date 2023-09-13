@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning machine learning
 - 🖥️ Problem Solving using Python, A little with C programming
-- 📫 How to reach me...yashwanthracha07@gmail.com
+- 📫 How to reach me ... yashwanthracha07@gmail.com
 - ⚡Fun Fact...I think I'm Funny
 
 <!---
