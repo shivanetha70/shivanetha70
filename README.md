@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @shivanetha70
+- 👋 Hi, I’m @shivanetha70 and you can call me yashwanth
+- 🔥 A passionate Engineer from India
+- 👨‍🎓 Im an AIML Student currently pursuing it
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on any platform
-- 📫 How to reach me...You can reach me on LinkedIn
+- 🖥️ Problem Solving using Python, A little with C programming
+- 📫 How to reach me...yashwanthracha07@gmail.com
+- ⚡Fun Fact...I think I'm Funny
 
 <!---
 shivanetha70/shivanetha70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
